@@ -1,4 +1,16 @@
-# Hello world 👋, I'm Alex!
+<div id="header" align="center">
+    <div id="badges">
+        <a href="https://www.linkedin.com/in/alexandrelarose/" style="text-decoration:none;">
+            <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+        <a href="https://twitter.com/LaroseAlex" style="text-decoration:none;">
+            <img src="https://img.shields.io/badge/X-white?style=for-the-badge&logo=x&logoColor=black" alt="X Badge"/></a>
+        <br/>
+        <h1>
+            Hello world
+            <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Alex
+        </h1>
+    </div>
+</div>
 
 ## 👨‍💻 About Me
 - 💻 Been passionate about IT and software since day 1 🐣
@@ -11,11 +23,13 @@
 
     Eventually getting there! 😉 (Well not 100% of course as there is always something to learn!)
 
+
 ## 🔧 Skills & Interests
 - 💪 Sofware development | Project Management | Enterpreneurship
 - 💡 Critical thinking & reasoning | Fast learner | Excellent communication skills
 - 🎯 Focus areas: SaaS | Consumer apps | Security | AI
 - ⭐️ Learning | Boxing | Dancing
+
 
 ## :hammer_and_wrench: Languages and Tools
 Languages:
@@ -55,6 +69,7 @@ Next in line to learn:
   <br/>
 </div>
 
+
 ## 📚 About 42
 [42 is a world class computer programming school](https://42.fr/en/homepage/) that launched and vetted a new way of learning computer science:
 - No teachers
@@ -67,8 +82,9 @@ Next in line to learn:
 
 ## 🔥 GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=frenzla&show_icons=true&locale=en&theme=material-palenight&hide_border=true" alt="frenzla" />
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=frenzla&locale=en&theme=material-palenight&hide_border=true" alt="frenzla" />
+  <img src="https://github-readme-stats.vercel.app/api?username=frenzla&show_icons=true&locale=en&theme=midnight-purple&hide_border=true" alt="stats_frenzla" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=frenzla&locale=en&theme=midnight-purple&hide_border=true" alt="streak_frenzla" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frenzla&show_icons=true&locale=en&layout=compact&theme=midnight-purple&hide_border=true" alt="top_lang_frenzla" />
 <p>
 
 ## ⚡ Fun fact
