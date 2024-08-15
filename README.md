@@ -19,7 +19,7 @@
 - 🚀 Finance was interesting, but technology was calling: I pivoted to software programming
 - 🎓 Student at [42 Paris](https://42.fr/en/homepage/) since May 2024... since then:
 
-    `My_coding_mastering_progress : [#####--------------------] 20.00%`
+    `My_coding_mastering_progress : [##------------------] 10.00%`
 
     Eventually getting there! 😉 (Well not 100% of course as there is always something to learn!)
 
