@@ -27,8 +27,8 @@
 ## 🔧 Skills & Interests
 - 💪 Sofware development | Project Management | Enterpreneurship
 - 💡 Critical thinking & reasoning | Fast learner | Excellent communication skills
-- 🎯 Focus areas: SaaS | Consumer apps | Security | AI
-- ⭐️ Learning | Boxing | Dancing
+- 🎯 Focus areas: Web | SaaS | Consumer apps | Cybersecurity | AI
+- ⭐️ Interests... too many, but here are 3: Learning | Martial Arts | Dancing
 
 
 ## :hammer_and_wrench: Languages and Tools
@@ -80,9 +80,8 @@ Next in line to learn:
 - The 42 cursus is free for whoever is approved in its selection process.
 
 
-## 🔥 GitHub Stats
+## 🧐 GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=frenzla&show_icons=true&locale=en&theme=midnight-purple&hide_border=true" alt="stats_frenzla" />
   <img src="http://github-readme-streak-stats.herokuapp.com?user=frenzla&locale=en&theme=midnight-purple&hide_border=true" alt="streak_frenzla" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frenzla&show_icons=true&locale=en&layout=compact&theme=midnight-purple&hide_border=true" alt="top_lang_frenzla" />
 <p>
