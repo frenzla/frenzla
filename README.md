@@ -17,7 +17,7 @@
 - 🌍 French 🇫🇷 but lived in and got inspired by many countries (🇮🇹, 🇬🇧, 🇪🇸, 🇺🇸, 🇳🇱, etc.)
 - 💼 Worked in the Startup world for the last 10 years: did both VC and entrepreneur
 - 🚀 Finance was interesting, but technology was calling: I pivoted to software programming
-- 🎓 Student at [42 Paris](https://42.fr/en/homepage/) since May 2024... since then:
+- 🎓 Student at [42 Paris](https://42.fr/en/homepage/) since May 2024
 
 
 ## 🔧 Skills & Interests
